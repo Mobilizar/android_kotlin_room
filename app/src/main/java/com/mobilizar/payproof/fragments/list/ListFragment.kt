@@ -1,26 +1,16 @@
 package com.mobilizar.payproof.fragments.list
 
-import android.accounts.AccountManager
-import android.accounts.AccountManagerCallback
-import android.app.Activity
 import android.app.AlertDialog
-import android.content.Context
 import android.os.Bundle
-import android.util.Log
 import android.view.*
 import androidx.fragment.app.Fragment
-import android.widget.LinearLayout
-import android.widget.ListAdapter
 import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import androidx.navigation.fragment.navArgs
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.mobilizar.payproof.R
-import com.mobilizar.payproof.conf.Constant
 import com.mobilizar.payproof.databinding.FragmentListBinding
-import com.mobilizar.payproof.fragments.update.UpdateFragmentArgs
 import com.mobilizar.payproof.viewmodel.DebitViewModel
 
 
