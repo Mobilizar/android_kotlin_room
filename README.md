@@ -1,4 +1,4 @@
-# Particando: Android + kotlin + Room
+# Praticando: Android + kotlin + Room
 Um projeto simples de CRUD com objetivo de praticar conhecimento.
 
 ## Arquitetura usada MVVM(Model-View-ViewModel)
