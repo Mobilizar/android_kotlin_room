@@ -9,3 +9,6 @@ A biblioteca de persistência Room oferece uma camada de abstração sobre o SQL
 
 ## RecyclerView
 O RecyclerView facilita e torna eficiente a exibição de grandes conjuntos de dados. Você fornece os dados e define a aparência de cada item.
+
+## NavHostFragment
+Nesse projeto a activity principal "MainActivity" está associada a um gráfico de navegação e contém um NavHostFragment que é responsável pela troca de destinos conforme necessário.
